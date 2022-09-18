@@ -1,0 +1,10 @@
+---
+devices:
+  - fqdn: basic.livingroom.dyson.nickborgers.com
+    label: "Living Room by Windows"
+  - fqdn: fancy.livingroom.dyson.nickborgers.com
+    label: "Living Room by Desk"
+  - fqdn: master.bedroom.dyson.nickborgers.com
+    label: "Master Bedroom"
+  - fqdn: floating.bedroom.dyson.nickborgers.com
+    label: "Either Bedroom"

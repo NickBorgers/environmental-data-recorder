@@ -1,0 +1,3 @@
+git+https://github.com/NickBorgers/libpurecoollink.git@f237a83a94690510bb5be455cb29340da5b6bc40
+elasticsearch==8.3.3
+pyyaml
